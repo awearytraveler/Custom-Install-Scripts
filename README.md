@@ -10,6 +10,26 @@
 
 1. Have multiple modes on the laptop. (Eg. Coding mode where github, gitlab, slack, trello, vscode is launched, Relax mode has youtube or a book suggestion or an interesting read that shows up, or news.)
 
+### List of Packages
+
+#### Base Packages
+
+1. Vim
+2. git
+3. Anaconda
+4. tmux
+5. zsh
+
+#### Python packages
+
+1. NumPy
+2. SciPy
+3. Matplotlib
+
+#### Extra tools
+
+1. [Glances](https://github.com/nicolargo/glances)
+
 # Future additions:
 
 1. Package groups for specific tasks. (eg. Ruby, Flask, Django for Web Dev)
