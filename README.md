@@ -1,7 +1,7 @@
 # To-Do List:
 
-1. Setup scripts for new terminal, installing zsh, git and anaconda
-2. Install all relevant packages in python
+1. Setup scripts for new terminal, installing zsh, git.
+2. Install Anaconda and all relevant packages in python.
 3. Install CUDA and OpenCL and DL and RL frameworks.
 4. Install vlc, slack and IDEs for coding
 5. Install ROS and Gazebo for robotics
