@@ -30,6 +30,18 @@
 
 1. [Glances](https://github.com/nicolargo/glances)
 
+#### AI tools
+
+1. Tensorflow
+2. Keras
+3. Caffe
+4. OpenAI 
+
+#### Simulation tools
+
+1. CARLA
+2. Gazebo
+
 # Future additions:
 
 1. Package groups for specific tasks. (eg. Ruby, Flask, Django for Web Dev)
