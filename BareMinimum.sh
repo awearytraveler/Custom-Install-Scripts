@@ -2,7 +2,7 @@
 
 sudo add-apt-repository ppa:gnome-terminator
 sudo apt-get update -y
-sudo apt-get dist-upgrade -y
+#sudo apt-get dist-upgrade -y
 sudo apt-get install ubuntu-restricted-extras -y
 
 # Installing Terminator
