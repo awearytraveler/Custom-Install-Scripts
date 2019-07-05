@@ -1,10 +1,18 @@
 # To-Do List:
 
+Basic Module: 
 1. Setup scripts for new terminal, installing zsh, git.
+2. Install Docker and clone the dockerfile base
+
+Python Expansion:
+1. Install vscode/atom/sublime (other code editors will be supported later)
 2. Install Anaconda and all relevant packages in python.
-3. Install CUDA and OpenCL and DL and RL frameworks.
-4. Install vlc, slack and IDEs for coding
-5. Install ROS and Gazebo for robotics
+
+Data Expansion:
+1. Install CUDA and OpenCL and DL and RL frameworks.
+
+Robotics Expansion:
+1. Install ROS and Gazebo for robotics
 
 ## Sub-Tasks
 
