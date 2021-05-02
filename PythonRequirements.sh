@@ -17,7 +17,7 @@ cd $PWD
 # Making conda environments
 
 conda create -n py27 python=2.7 anaconda
-conda create -n py34 python=3.4 anaconda
+conda create -n py36 python=3.6 anaconda
 
 # Installing specific packages meant for py27
 
