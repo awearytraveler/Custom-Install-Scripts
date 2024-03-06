@@ -1,18 +1,16 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:gnome-terminator
-sudo apt-get update -y
-#sudo apt-get dist-upgrade -y
-sudo apt-get install ubuntu-restricted-extras -y
-
-# Installing Terminator
+# Installing basic requirements
+# 1. git
+# 2. vim
+# 3. axel
+# 4. htop
+sudo apt-get update
 sudo apt-get install terminator
  
 # Installing Git
 sudo apt-get install git -y
+sudo apt-get install vim -y
+sudo apt-get install axel -y
+sudo apt install htop
 
-# Install Vim
-sudo apt-get install vim 
-
-# Installing axel
-sudo apt-get install axel 
